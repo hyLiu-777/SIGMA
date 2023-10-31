@@ -4,7 +4,7 @@ Code for submission "Similarity-based Efficient Global Aggregation for Heterophi
 ## Environment:
 The implemetation is based on python and C++ (for simrank computations). 
 
-### The python env requires:
+### Python:
 
 - torch==1.10.1
 - torch-scatter=2.0.9
