@@ -1,4 +1,4 @@
-# SIGMA: 
+# SIGMA
 Code for submission "Similarity-based Efficient Global Aggregation for Heterophilous Graph Neural Networks" to WWW 2024. We provide the codes for large-scale datasets here.
 
 ## Environment:
